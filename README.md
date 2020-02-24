@@ -12,7 +12,7 @@ Files:-
 
 
 (3) Thread Simulation
-	program to simulate thread behavior without using Thread API
+	program to simulate java thread behavior
 
 	(i) ICheck.java  - Interface  ( Method HasCompleted)
 	
