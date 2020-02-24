@@ -7,8 +7,8 @@ Files:-
 	program to reverse the bytes in a file. 
 
 
-(2) Dead Lock Demo
-	program to Demonstrate DeadLock
+(2) DeadLock Demo
+	program to demonstrate DeadLock
 
 
 (3) Thread Simulation
